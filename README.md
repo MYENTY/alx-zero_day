@@ -1,2 +1,1 @@
-my first readme
-Start coding
+My first readme
